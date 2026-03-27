@@ -1,0 +1,52 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace _4._1
+{
+    class P1
+    {
+        static void Main(String[] args)
+        {
+            int n = ReadInt("ingrese cantidad de empleados: ");
+            int cont100_300 = 0;
+            int cont300_mas = 0;
+            int GastoTotal = 0;
+            int i = 1;
+
+            while (i <= n)
+            {
+                int sueldo = ReadInt("ingrese el sueldo del empleado: ");
+                GastoTotal += sueldo;
+
+                if (sueldo >= 100 && sueldo <= 300)
+                    cont100_300++;
+                else if (sueldo > 300)
+                    cont300_mas++;
+                i++;
+            }
+            Console.WriteLine("Empleados que cobran entre 100 y 300: " + cont100_300);
+            Console.WriteLine("Empleados que cobran entre 300  y más: " + cont300_mas);
+            Console.WriteLine("Gasto total de la empresa:" + GastoTotal);
+        }
+
+        static int ReadInt(string prompt)
+        {
+            while (true)
+            {
+                Console.Write(prompt);
+                string? line = Console.ReadLine();
+                if (line is null)
+                {
+                    Console.WriteLine("Entrada nula. Intente de nuevo.");
+                    continue;
+                }
+                if (int.TryParse(line, out int value))
+                    return value;
+                Console.WriteLine("Entrada no válida. Ingrese un número entero.");
+            }
+        }
+    }
+}

@@ -1,0 +1,14 @@
+C:\Users\John\OneDrive\Desktop\JohnHuallpa-ACT4\4.2\bin\Debug\net10.0\4.2.exe
+C:\Users\John\OneDrive\Desktop\JohnHuallpa-ACT4\4.2\bin\Debug\net10.0\4.2.deps.json
+C:\Users\John\OneDrive\Desktop\JohnHuallpa-ACT4\4.2\bin\Debug\net10.0\4.2.runtimeconfig.json
+C:\Users\John\OneDrive\Desktop\JohnHuallpa-ACT4\4.2\bin\Debug\net10.0\4.2.dll
+C:\Users\John\OneDrive\Desktop\JohnHuallpa-ACT4\4.2\bin\Debug\net10.0\4.2.pdb
+C:\Users\John\OneDrive\Desktop\JohnHuallpa-ACT4\4.2\obj\Debug\net10.0\4.2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\John\OneDrive\Desktop\JohnHuallpa-ACT4\4.2\obj\Debug\net10.0\4.2.AssemblyInfoInputs.cache
+C:\Users\John\OneDrive\Desktop\JohnHuallpa-ACT4\4.2\obj\Debug\net10.0\4.2.AssemblyInfo.cs
+C:\Users\John\OneDrive\Desktop\JohnHuallpa-ACT4\4.2\obj\Debug\net10.0\4.2.csproj.CoreCompileInputs.cache
+C:\Users\John\OneDrive\Desktop\JohnHuallpa-ACT4\4.2\obj\Debug\net10.0\4.2.dll
+C:\Users\John\OneDrive\Desktop\JohnHuallpa-ACT4\4.2\obj\Debug\net10.0\refint\4.2.dll
+C:\Users\John\OneDrive\Desktop\JohnHuallpa-ACT4\4.2\obj\Debug\net10.0\4.2.pdb
+C:\Users\John\OneDrive\Desktop\JohnHuallpa-ACT4\4.2\obj\Debug\net10.0\4.2.genruntimeconfig.cache
+C:\Users\John\OneDrive\Desktop\JohnHuallpa-ACT4\4.2\obj\Debug\net10.0\ref\4.2.dll

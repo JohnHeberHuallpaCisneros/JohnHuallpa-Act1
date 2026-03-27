@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\John\\OneDrive\\Desktop\\JohnHuallpa-ACT4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A7AFF552-0825-4722-2CB5-1891E329B87C}|4.2\\4.2.csproj|c:\\users\\john\\onedrive\\desktop\\johnhuallpa-act4\\4.2\\program4.2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7AFF552-0825-4722-2CB5-1891E329B87C}|4.2\\4.2.csproj|solutionrelative:4.2\\program4.2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55C1F536-6A2D-28EE-4D2A-148F309D83E9}|4.1\\4.1.csproj|c:\\users\\john\\onedrive\\desktop\\johnhuallpa-act4\\4.1\\program4.1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55C1F536-6A2D-28EE-4D2A-148F309D83E9}|4.1\\4.1.csproj|solutionrelative:4.1\\program4.1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E51A7E8B-B144-6516-C99B-9C964B7D8EA8}|4.3\\4.3.csproj|c:\\users\\john\\onedrive\\desktop\\johnhuallpa-act4\\4.3\\program4.3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E51A7E8B-B144-6516-C99B-9C964B7D8EA8}|4.3\\4.3.csproj|solutionrelative:4.3\\program4.3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCFBB523-B5CF-1D57-D21F-D84D7AF38CC9}|4.4\\4.4.csproj|c:\\users\\john\\onedrive\\desktop\\johnhuallpa-act4\\4.4\\program4.4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCFBB523-B5CF-1D57-D21F-D84D7AF38CC9}|4.4\\4.4.csproj|solutionrelative:4.4\\program4.4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program4.4.cs",
+              "DocumentMoniker": "C:\\Users\\John\\OneDrive\\Desktop\\JohnHuallpa-ACT4\\4.4\\Program4.4.cs",
+              "RelativeDocumentMoniker": "4.4\\Program4.4.cs",
+              "ToolTip": "C:\\Users\\John\\OneDrive\\Desktop\\JohnHuallpa-ACT4\\4.4\\Program4.4.cs",
+              "RelativeToolTip": "4.4\\Program4.4.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAwwBUAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-27T00:25:31.438Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program4.3.cs",
+              "DocumentMoniker": "C:\\Users\\John\\OneDrive\\Desktop\\JohnHuallpa-ACT4\\4.3\\Program4.3.cs",
+              "RelativeDocumentMoniker": "4.3\\Program4.3.cs",
+              "ToolTip": "C:\\Users\\John\\OneDrive\\Desktop\\JohnHuallpa-ACT4\\4.3\\Program4.3.cs",
+              "RelativeToolTip": "4.3\\Program4.3.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwBkAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-27T00:04:07.332Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program4.1.cs",
+              "DocumentMoniker": "C:\\Users\\John\\OneDrive\\Desktop\\JohnHuallpa-ACT4\\4.1\\Program4.1.cs",
+              "RelativeDocumentMoniker": "4.1\\Program4.1.cs",
+              "ToolTip": "C:\\Users\\John\\OneDrive\\Desktop\\JohnHuallpa-ACT4\\4.1\\Program4.1.cs",
+              "RelativeToolTip": "4.1\\Program4.1.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-27T00:03:46.836Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program4.2.cs",
+              "DocumentMoniker": "C:\\Users\\John\\OneDrive\\Desktop\\JohnHuallpa-ACT4\\4.2\\Program4.2.cs",
+              "RelativeDocumentMoniker": "4.2\\Program4.2.cs",
+              "ToolTip": "C:\\Users\\John\\OneDrive\\Desktop\\JohnHuallpa-ACT4\\4.2\\Program4.2.cs",
+              "RelativeToolTip": "4.2\\Program4.2.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-26T23:50:08.211Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
