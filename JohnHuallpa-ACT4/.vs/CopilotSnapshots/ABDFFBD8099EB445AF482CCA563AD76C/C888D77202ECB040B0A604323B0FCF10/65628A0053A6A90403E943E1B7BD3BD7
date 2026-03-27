@@ -1,0 +1,26 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace _4._4
+{
+    class P4
+    {
+        static void Main(String[] args)
+        {
+            int saldo_total = 0;
+            int s;
+            Console.Write("ingresa su saldo de esta operacion: ");
+            while (true)
+            {
+                s = int.Parse(Console.ReadLine());
+                if (s < 0)
+                    break;
+                saldo_total += s;
+            }
+            Console.WriteLine("valor acumulado= " + saldo_total);
+        }
+    }
+}
