@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="5.1/5.1.csproj" />
+  <Project Path="5.2/5.2.csproj" />
+  <Project Path="5.3/5.3.csproj" />
+  <Project Path="5.4/5.4.csproj" />
+</Solution>
