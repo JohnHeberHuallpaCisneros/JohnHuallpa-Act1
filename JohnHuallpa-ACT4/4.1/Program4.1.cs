@@ -39,6 +39,7 @@ namespace _4._1
             Console.WriteLine("Empleados que cobran entre 100 y 300: " + cont100_300);
             Console.WriteLine("Empleados que cobran entre 300  y más: " + cont300_mas);
             Console.WriteLine("Gasto total de la empresa:" + GastoTotal);
+            Console.ReadKey();
         }
     }
 }

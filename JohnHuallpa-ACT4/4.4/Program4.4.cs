@@ -37,7 +37,7 @@ namespace _4._4
                 if (saldo > 0)
                 {
                     Console.WriteLine("Estado: Acreedor");
-                    SumAcr++;
+                    SumAcr += saldo;
                 }
                 else if (saldo < 0)
                 {
@@ -49,6 +49,7 @@ namespace _4._4
                 Console.WriteLine();
             }
             Console.WriteLine("Total de Acreedores= " + SumAcr);
+            Console.ReadKey();
         }
     }
 }

@@ -32,7 +32,10 @@ namespace _4._3
             else if (acumulador < 0)
                 Console.WriteLine("El valor es menor a 0");
             else
+            {
                 Console.WriteLine("el valor es 0");
+            }
+            Console.ReadKey();
         }
     }
 }

@@ -23,6 +23,7 @@ namespace _4._2
                 avance += 11;
                 contador++;
             }
+            Console.ReadKey();
         }
     }
 }
