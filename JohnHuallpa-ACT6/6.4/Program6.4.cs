@@ -64,7 +64,7 @@ namespace _6._4
             op.Cargar();
             op.ImprimirResultados();
 
-            Console.ReadLine();
+            Console.ReadKey();
         }
     }
 }
