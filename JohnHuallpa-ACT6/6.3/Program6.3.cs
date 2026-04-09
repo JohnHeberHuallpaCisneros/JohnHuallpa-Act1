@@ -46,7 +46,7 @@ namespace _6._3
                 emp.Imprimir();
                 emp.PagarImpuestos();
 
-                Console.ReadLine();
+                Console.ReadKey();
             }
     }
     
