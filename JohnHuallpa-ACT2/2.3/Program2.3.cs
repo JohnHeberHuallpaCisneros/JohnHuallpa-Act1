@@ -34,6 +34,7 @@ namespace _2._3
             {
                 Console.WriteLine("El número debe estar entre 1 y 99 inclusive.");
             }
+            Console.ReadKey();
         }
     }
 }
