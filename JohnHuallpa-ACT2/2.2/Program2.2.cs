@@ -47,6 +47,7 @@ namespace _2._2
             {
                 Console.WriteLine("No promocionado.");
             }
+            Console.ReadKey();
         }
     }
 }
