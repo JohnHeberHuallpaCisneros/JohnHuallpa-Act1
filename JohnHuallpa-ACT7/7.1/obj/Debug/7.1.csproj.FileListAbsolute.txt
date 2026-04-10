@@ -1,0 +1,14 @@
+C:\Users\alumno\Downloads\JohnHuallpa-ACT7\7.1\obj\Debug\7.1.csproj.AssemblyReference.cache
+C:\Users\alumno\Downloads\JohnHuallpa-ACT7\7.1\obj\Debug\7.1.csproj.CoreCompileInputs.cache
+C:\Users\alumno\Downloads\JohnHuallpa-ACT7\7.1\bin\Debug\7.1.exe.config
+C:\Users\alumno\Downloads\JohnHuallpa-ACT7\7.1\bin\Debug\7.1.exe
+C:\Users\alumno\Downloads\JohnHuallpa-ACT7\7.1\bin\Debug\7.1.pdb
+C:\Users\alumno\Downloads\JohnHuallpa-ACT7\7.1\obj\Debug\7.1.exe
+C:\Users\alumno\Downloads\JohnHuallpa-ACT7\7.1\obj\Debug\7.1.pdb
+C:\Users\John\OneDrive\Desktop\JohnHuallpa-ACT7-20260410T002950Z-3-001\JohnHuallpa-ACT7\7.1\bin\Debug\7.1.exe.config
+C:\Users\John\OneDrive\Desktop\JohnHuallpa-ACT7-20260410T002950Z-3-001\JohnHuallpa-ACT7\7.1\bin\Debug\7.1.exe
+C:\Users\John\OneDrive\Desktop\JohnHuallpa-ACT7-20260410T002950Z-3-001\JohnHuallpa-ACT7\7.1\bin\Debug\7.1.pdb
+C:\Users\John\OneDrive\Desktop\JohnHuallpa-ACT7-20260410T002950Z-3-001\JohnHuallpa-ACT7\7.1\obj\Debug\7.1.csproj.AssemblyReference.cache
+C:\Users\John\OneDrive\Desktop\JohnHuallpa-ACT7-20260410T002950Z-3-001\JohnHuallpa-ACT7\7.1\obj\Debug\7.1.csproj.CoreCompileInputs.cache
+C:\Users\John\OneDrive\Desktop\JohnHuallpa-ACT7-20260410T002950Z-3-001\JohnHuallpa-ACT7\7.1\obj\Debug\7.1.exe
+C:\Users\John\OneDrive\Desktop\JohnHuallpa-ACT7-20260410T002950Z-3-001\JohnHuallpa-ACT7\7.1\obj\Debug\7.1.pdb

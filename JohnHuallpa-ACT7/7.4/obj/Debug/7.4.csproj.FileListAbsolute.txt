@@ -1,0 +1,7 @@
+C:\Users\John\OneDrive\Desktop\JohnHuallpa-ACT7-20260410T002950Z-3-001\JohnHuallpa-ACT7\7.4\bin\Debug\7.4.exe.config
+C:\Users\John\OneDrive\Desktop\JohnHuallpa-ACT7-20260410T002950Z-3-001\JohnHuallpa-ACT7\7.4\bin\Debug\7.4.exe
+C:\Users\John\OneDrive\Desktop\JohnHuallpa-ACT7-20260410T002950Z-3-001\JohnHuallpa-ACT7\7.4\bin\Debug\7.4.pdb
+C:\Users\John\OneDrive\Desktop\JohnHuallpa-ACT7-20260410T002950Z-3-001\JohnHuallpa-ACT7\7.4\obj\Debug\7.4.csproj.AssemblyReference.cache
+C:\Users\John\OneDrive\Desktop\JohnHuallpa-ACT7-20260410T002950Z-3-001\JohnHuallpa-ACT7\7.4\obj\Debug\7.4.csproj.CoreCompileInputs.cache
+C:\Users\John\OneDrive\Desktop\JohnHuallpa-ACT7-20260410T002950Z-3-001\JohnHuallpa-ACT7\7.4\obj\Debug\7.4.exe
+C:\Users\John\OneDrive\Desktop\JohnHuallpa-ACT7-20260410T002950Z-3-001\JohnHuallpa-ACT7\7.4\obj\Debug\7.4.pdb
