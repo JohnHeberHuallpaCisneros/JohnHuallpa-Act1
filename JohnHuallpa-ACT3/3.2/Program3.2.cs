@@ -35,6 +35,7 @@ namespace _3._2
                 Console.WriteLine("\nLos numeros no son todos iguales.");
             }
             Console.Write("La suma de los 3 números ingresados es: " + (a+b+c));
+            Console.ReadKey();
         }
     }
 }
