@@ -30,6 +30,7 @@ namespace _1._5
             {
                 Console.WriteLine("El radio debe ser positivo.");
             }
+            Console.ReadKey();
         }
     }
 }
