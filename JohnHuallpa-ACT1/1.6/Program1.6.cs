@@ -32,6 +32,7 @@ namespace _1._6
 
                 Console.WriteLine($"\nSu IMC es: {imcEntero / 100}.{imcEntero % 100}");
             }
+            Console.ReadKey();
         }
     }
 }
