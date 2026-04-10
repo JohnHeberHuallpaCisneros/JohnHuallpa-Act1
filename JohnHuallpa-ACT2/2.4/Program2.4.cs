@@ -39,6 +39,7 @@ namespace _2._4
             {
                 Console.WriteLine("El mayor es: " + c);
             }
+            Console.ReadKey();
         }
     }
 }
