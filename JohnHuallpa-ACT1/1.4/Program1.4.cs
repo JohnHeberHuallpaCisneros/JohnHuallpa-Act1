@@ -23,6 +23,7 @@ namespace _1._4
             int total = precio * cantidad;
 
             Console.WriteLine($"\nEl cliente debe pagar: ${total:F2}");
+            Console.ReadKey();
         }
     }
 }
