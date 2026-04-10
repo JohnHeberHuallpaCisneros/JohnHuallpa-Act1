@@ -30,6 +30,7 @@ namespace _1._2
 
             Console.WriteLine($"\nSuma de los dos primeros: {suma}");
             Console.WriteLine($"Producto de los dos últimos: {producto}");
+            Console.ReadKey();
         }
     }
 }
