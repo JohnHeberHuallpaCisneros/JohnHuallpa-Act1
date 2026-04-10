@@ -28,6 +28,7 @@ namespace _3._1
             {
                 Console.WriteLine("\nLa fecha ingresada NO es la de Navidad.");
             }
+            Console.ReadKey();
         }
     }
 }
