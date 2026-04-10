@@ -22,6 +22,7 @@ namespace _1._3
             int promedio = suma / 4;
             Console.WriteLine($"\nSuma total: {suma}");
             Console.WriteLine($"Promedio: {promedio:F2}");
+            Console.ReadKey();
         }
     }
 }
