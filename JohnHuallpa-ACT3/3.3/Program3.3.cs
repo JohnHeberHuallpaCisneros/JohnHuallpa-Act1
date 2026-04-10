@@ -33,6 +33,7 @@ namespace _3._3
             {
                 Console.WriteLine("\nNo todos los numeros son menores a diez");
             }
+            Console.ReadKey();
         }
     }
 }
