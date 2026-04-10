@@ -57,6 +57,7 @@ namespace _2._1
             {
                 Console.WriteLine("Los números son iguales.");
             }
+            Console.ReadKey();
         }
     }
 }
