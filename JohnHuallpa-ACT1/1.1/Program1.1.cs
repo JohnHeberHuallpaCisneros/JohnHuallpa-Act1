@@ -25,6 +25,7 @@ namespace _1._1
             else
             {
                 Console.WriteLine("Valor no valido, introduce valor positivo ");
+                Console.ReadKey();
             }
         }
     }
