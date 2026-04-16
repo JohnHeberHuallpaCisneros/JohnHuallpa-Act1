@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="8.1/8.1.csproj" />
+  <Project Path="8.2/8.2.csproj" />
+  <Project Path="8.3/8.3.csproj" />
+  <Project Path="8.4/8.4.csproj" />
+</Solution>
