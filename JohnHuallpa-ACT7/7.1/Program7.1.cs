@@ -42,7 +42,7 @@ namespace _7._1
             Console.WriteLine();
             for(int f = 0; f < valores.Length; f++)
             {
-                if (f > 36)
+                if (valores[f] > 36)
                 {
                     M36[f] = valores[f];
                 }
