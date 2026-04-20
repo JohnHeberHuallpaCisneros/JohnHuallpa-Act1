@@ -1,4 +1,4 @@
-﻿/*
+/*
  Desarrollar un programa que permita ingresar un vector de 8 elementos, e informe:
 El valor acumulado de todos los elementos del vector.
 El valor acumulado de los elementos del vector que sean mayores a 36.
@@ -15,9 +15,10 @@ namespace _7._1
     class Program
     {
         private int[] valores;
+        private int[] M36;
         public void Cargar()
         {
-            valores = new int [8];
+            valores = new int[8];
             for (int i = 0; i < 8; i++)
             {
                 Console.Write("Ingrese un valor: ");
@@ -28,31 +29,43 @@ namespace _7._1
         }
         public void verify_and_print()
         {
-            Console.Write("Elementos del vector: ");
-            for(int i = 0; i < 8; i++)
+            M36 = new int[8];
+            int sumav1 = 0;
+            int contador50 = 0;
+            int TM36 = 0;
+
+            for (int i = 0; i < valores.Length; i++)
             {
-                Console.Write(valores[i] + " ");
+                sumav1 = sumav1 + valores[i];
             }
+            Console.Write("valor total de los elementos del vector: " + sumav1);
             Console.WriteLine();
-            Console.Write("Elementos del vector mayores a 36: ");
-            foreach (int f in valores )
+            for(int f = 0; f < valores.Length; f++)
             {
                 if (f > 36)
                 {
-                    Console.Write(f + " ");
-                }
-                else { 
+                    M36[f] = valores[f];
                 }
             }
+
+            for (int i = 0; i < valores.Length; i++)
+            {
+                if (valores[i] > 36)
+                {
+                    TM36 = TM36 + valores[i];
+                }
+            }
+            Console.Write("valor total de los elementos mayores a 36: " +  TM36);
+
             Console.WriteLine();
-            Console.Write("Elementos del vector mayores a 50: ");
             foreach (int x in valores)
             {
                 if (x > 50)
                 {
-                    Console.Write(x + " ");
+                    contador50++;
                 }
             }
+            Console.Write("Cantidad de valores mayores a 50: " + contador50);
             Console.WriteLine();
             Console.ReadKey();
         }
