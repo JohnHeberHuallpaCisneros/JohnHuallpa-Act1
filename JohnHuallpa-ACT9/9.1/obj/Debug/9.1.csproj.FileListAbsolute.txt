@@ -1,0 +1,14 @@
+C:\Users\alumno\Downloads\JohnHuallpa-ACT9\9.1\bin\Debug\9.1.exe.config
+C:\Users\alumno\Downloads\JohnHuallpa-ACT9\9.1\bin\Debug\9.1.exe
+C:\Users\alumno\Downloads\JohnHuallpa-ACT9\9.1\bin\Debug\9.1.pdb
+C:\Users\alumno\Downloads\JohnHuallpa-ACT9\9.1\obj\Debug\9.1.csproj.AssemblyReference.cache
+C:\Users\alumno\Downloads\JohnHuallpa-ACT9\9.1\obj\Debug\9.1.csproj.CoreCompileInputs.cache
+C:\Users\alumno\Downloads\JohnHuallpa-ACT9\9.1\obj\Debug\9.1.exe
+C:\Users\alumno\Downloads\JohnHuallpa-ACT9\9.1\obj\Debug\9.1.pdb
+C:\Users\John\OneDrive\Desktop\JohnHuallpa-ACT9\9.1\bin\Debug\9.1.exe.config
+C:\Users\John\OneDrive\Desktop\JohnHuallpa-ACT9\9.1\bin\Debug\9.1.exe
+C:\Users\John\OneDrive\Desktop\JohnHuallpa-ACT9\9.1\bin\Debug\9.1.pdb
+C:\Users\John\OneDrive\Desktop\JohnHuallpa-ACT9\9.1\obj\Debug\9.1.csproj.AssemblyReference.cache
+C:\Users\John\OneDrive\Desktop\JohnHuallpa-ACT9\9.1\obj\Debug\9.1.csproj.CoreCompileInputs.cache
+C:\Users\John\OneDrive\Desktop\JohnHuallpa-ACT9\9.1\obj\Debug\9.1.exe
+C:\Users\John\OneDrive\Desktop\JohnHuallpa-ACT9\9.1\obj\Debug\9.1.pdb

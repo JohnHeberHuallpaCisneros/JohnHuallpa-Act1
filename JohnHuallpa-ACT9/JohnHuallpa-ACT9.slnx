@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="9.1/9.1.csproj" Id="9b72e106-a8e1-4b99-9503-6954ac4331f6" />
+  <Project Path="9.2/9.2.csproj" Id="701872bd-4825-4d50-8418-e5d2018990e2" />
+  <Project Path="9.3/9.3.csproj" Id="939b70e3-8df7-4cdd-9fd6-c276b3aa50a6" />
+  <Project Path="9.4/9.4.csproj" Id="67df63b0-63bf-4c5c-923b-31d78b149518" />
+</Solution>
