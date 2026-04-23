@@ -45,6 +45,8 @@ namespace _7._1
             Console.WriteLine("Valor acumulado de todos los elementos: " + sumaTotal);
             Console.WriteLine("Valor acumulado de elementos mayores a 36: " + sumaMayores36);
             Console.WriteLine("Cantidad de valores mayores a 50: " + contadorMayores50);
+
+            Console.ReadKey();
         }
         static void Main(string[] args)
         {
