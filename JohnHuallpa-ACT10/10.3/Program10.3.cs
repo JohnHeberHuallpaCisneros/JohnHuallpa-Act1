@@ -28,7 +28,7 @@ namespace _10._3
             {
                 for (int j = 0; j < columnas; j++)
                 {
-                    Console.Write($"Ingrese valor [{i},{j}]: ");
+                    Console.Write("Ingrese valor [{i},{j}]: ");
                     Matriz[i, j] = int.Parse(Console.ReadLine());
                 }
             }
