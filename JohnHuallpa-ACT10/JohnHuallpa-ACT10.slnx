@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="10.1/10.1.csproj" />
+  <Project Path="10.2/10.2.csproj" />
+  <Project Path="10.3/10.3.csproj" />
+</Solution>
